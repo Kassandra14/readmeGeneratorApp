@@ -1,8 +1,8 @@
-# this
+# My Project
 
   ## Description
   
-  * some stuff
+  * this is a project for testing apps
 
   ## Table of Contents
   
@@ -16,9 +16,6 @@
   [Questions](#questions)
   </ul>
   
-  // THEN I am taken to the corresponding section of the README
-  
- 
   
   ## Installation 
   
@@ -26,25 +23,25 @@
   
   ## Usage 
   
-  * dont break
+  * this app uses nodejs you will need to install inquirer and run from command line :  node index
   
   ## License 
 
-  * [![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+  * [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
   ## Contributing
   
-  * dont break
+  * email me
   
   ## Tests
   
-  * test
+  * 
   
   
   ## Questions
   
-  * Github username: me ...(api call?)
+  * Github username: Kassandra14 ...(api call?)
   
-  * Email:  me@gmail.com
+  * Email:  k@sixbones.com
   
-  * Project URL: www.me.org
+  * Project URL: www.myproject.com
